@@ -5,7 +5,8 @@ var filesToCache = [
 	'./css/style.css',
 	'./js/main.js',
 	'./images/cherry.png',
-	'./favicon.ico'
+	'./favicon.ico',
+	'./content.json'
 ];
 
 /* Start the service worker and cache app content */
