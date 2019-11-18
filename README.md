@@ -4,7 +4,9 @@ A simple PWA showing some text and a cherry.
 
 Firebase Demo: https://myawesomepwa-c87a1.firebaseapp.com
 
-Github Demo: https://antigones.github.io/my-first-pwa/
+Github Demo:
+* https://antigones.github.io/my-first-pwa/
+* https://bjorn-eiderback.github.io/my-first-pwa/
 
 To publish the sw to Github hosting, please change the following function in main.js:
 
