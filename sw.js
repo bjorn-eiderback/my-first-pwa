@@ -4,6 +4,7 @@ var filesToCache = [
 	'./index.html',
 	'./css/style.css',
 	'./js/main.js',
+	'./js/sendAndReadDataShowOnCanvas.js',
 	'./images/cherry.png',
 	'./favicon.ico'
 ];
