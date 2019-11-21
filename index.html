@@ -18,7 +18,7 @@
 	<meta name="msapplication-TileColor" content="#FFFFFF">
 </head>
 
-<body>
+<body onload="init()">
 	<div class="container">
 	<div class="container-item" id="quote-container">         
 			<img src="images/cherry.png" alt="cherry, cherry!"/>
@@ -34,6 +34,12 @@
 			</p>
 		</div>
 	</div>
+	<div style = "text-align:center;margin-top:10px;">
+		<canvas id="outputCanvas" width="505" height="505" style="border:1px solid #000000;"></canvas>
+	</div>
+
 	<script src="js/main.js"></script>
+	<script src="js/sendAndReadDataShowOnCanvas.js"></script>
+
 </body>
 </html>
